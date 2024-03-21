@@ -16,4 +16,4 @@ https://boatyard.atlassian.net/browse/:id
 
 > Optional.
 > List of external resources involved.
-> May include environment variable changes, PRs dependencies, related documentation, etc.)https://boatyard.atlassian.net/browse/:id
+> May include environment variable changes, PRs dependencies, related documentation, etc.)
